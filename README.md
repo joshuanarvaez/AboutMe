@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Josh. I live in Chicago; one of the most beautiful cities in the world!
-- 👀� I’m interested in tech, gaming, sports, fitness, food and traveling.
+- 👀 I’m interested in tech, gaming, sports, fitness, food and traveling.
 - 💻  I’m currently learning full stack web development.
 - 📫  How to reach me: jhnarva@gmail.com
 
